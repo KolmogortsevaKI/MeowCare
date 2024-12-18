@@ -1,0 +1,1 @@
+qt5-tools designer UI\%1.ui
